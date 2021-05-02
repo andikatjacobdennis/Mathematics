@@ -44,9 +44,9 @@ Multiplication of natural numbers is also distributive over subtraction. For exa
 
 ## Properties and Operations on Natural Numbers
 
-Operation | Closure Property | Commutative Property | Associative Property
------------- | ------------- | ------------ | -------------
-Addition | Yes | Yes | Yes
-Subtraction | No | No | No
-Multiplication | Yes | Yes | Yes
-Division | No | No | No
+Operation | Closure Property | Commutative Property | Associative Property | Distributive Property
+------------ | ------------- | ------------ | ------------- | -------------
+Addition | Yes | Yes | Yes | Yes
+Subtraction | No | No | No | Yes
+Multiplication | Yes | Yes | Yes | NA
+Division | No | No | No | NA
