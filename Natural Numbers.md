@@ -41,8 +41,3 @@ Subtraction and division of natural numbers do not show the commutative property
 Multiplication of natural numbers is always distributive over addition. For example, a × (b + c) = ab + ac
 
 Multiplication of natural numbers is also distributive over subtraction. For example, a × (b – c) = ab – ac
-
-# Whole Numbers
-
-Natural numbers are the numbers which are positive integers and includes numbers from 0 till infinity (∞). These numbers are countable and are generally used for calculation purpose.  The set of natural numbers is represented by the letter “W”.
-W = {0,1,2,3,4,5,6,7,8,9,10…….}
