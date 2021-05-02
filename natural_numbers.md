@@ -1,8 +1,12 @@
-1.	Natural Numbers
+1. Natural Numbers
+
 Natural numbers are the numbers which are positive integers and includes numbers from 1 till infinity (∞). These numbers are countable and are generally used for calculation purpose.  The set of natural numbers is represented by the letter “N”.
 N = {1,2,3,4,5,6,7,8,9,10…….}
-1.1.	Properties of Natural Numbers
-1.1.1.	Closure Property
+
+1.1. Properties of Natural Numbers
+
+1.1.1. Closure Property
+
 Natural numbers are always closed under addition and multiplication. The addition and multiplication of two or more natural numbers will always yield a natural number. In the case of subtraction and division, natural numbers do not obey closure property, which means subtracting or dividing two natural numbers might not give a natural number as a result.
 
 Addition: 1 + 2 = 3, 3 + 4 = 7, etc. In each of these cases, the resulting number is always a natural number.
@@ -17,6 +21,7 @@ Multiplication: a × ( b × c ) = ( a × b ) × c => 3 × (15 × 1 ) = 45 and ( 
 Subtraction: a – ( b – c ) ≠ ( a – b ) – c => 2 – (15 – 1 ) = – 12 and ( 2 – 15 ) – 1 = – 14.
 Division: a ÷ ( b ÷ c ) ≠ ( a ÷ b ) ÷ c => 2 ÷( 3 ÷ 6 ) = 4 and ( 2 ÷ 3 ) ÷ 6 = 0.11.Closure Property
 
-2.	Whole Numbers
+2. Whole Numbers
+
 Natural numbers are the numbers which are positive integers and includes numbers from 0 till infinity (∞). These numbers are countable and are generally used for calculation purpose.  The set of natural numbers is represented by the letter “W”.
 W = {0,1,2,3,4,5,6,7,8,9,10…….}
