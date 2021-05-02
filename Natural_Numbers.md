@@ -41,3 +41,12 @@ Subtraction and division of natural numbers do not show the commutative property
 Multiplication of natural numbers is always distributive over addition. For example, a × (b + c) = ab + ac
 
 Multiplication of natural numbers is also distributive over subtraction. For example, a × (b – c) = ab – ac
+
+## Properties and Operations on Natural Numbers
+
+Operation | Closure Property | Commutative Property | Associative Property
+------------ | ------------- | ------------ | -------------
+Addition | Yes | Yes | Yes
+Subtraction | No | No | No
+Multiplication | Yes | Yes | Yes
+Division | No | No | No
