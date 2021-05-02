@@ -33,3 +33,12 @@ When a whole number is multiplied to 0, the result is always 0, i.e., x.0 = 0.x 
 ### Division by zero
 
 Division of a whole number by o is not defined, i.e., if x is a whole number then x/0 is not defined.
+
+## Properties and Operations on Whole Numbers
+
+Operation | Closure Property | Commutative Property | Associative Property | Distributive Property
+------------ | ------------- | ------------ | ------------- | -------------
+Addition | Yes | Yes | Yes | Yes
+Subtraction | No | No | No | Yes
+Multiplication | Yes | Yes | Yes | NA
+Division | No | No | No | NA
