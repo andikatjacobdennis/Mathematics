@@ -18,7 +18,7 @@ Subtraction: 9 – 5 = 4, 3 – 5 = -2, etc. In this case, the result may or may
 
 Division: 10 ÷ 5 = 2, 10 ÷ 3 = 3.33, etc. In this case, also, the resultant number may or may not be a natural number.
 
-###	Associative Property
+### Associative Property
 
 The associative property holds true in case of addition and multiplication of natural numbers i.e. a + ( b + c ) = ( a + b ) + c and a × ( b × c ) = ( a × b ) × c. On the other hand, for subtraction and division of natural numbers, the associative property does not hold true. An example of this is given below.
 
@@ -28,7 +28,19 @@ Multiplication: a × ( b × c ) = ( a × b ) × c => 3 × (15 × 1 ) = 45 and ( 
 
 Subtraction: a – ( b – c ) ≠ ( a – b ) – c => 2 – (15 – 1 ) = – 12 and ( 2 – 15 ) – 1 = – 14.
 
-Division: a ÷ ( b ÷ c ) ≠ ( a ÷ b ) ÷ c => 2 ÷( 3 ÷ 6 ) = 4 and ( 2 ÷ 3 ) ÷ 6 = 0.11.Closure Property
+Division: a ÷ ( b ÷ c ) ≠ ( a ÷ b ) ÷ c => 2 ÷( 3 ÷ 6 ) = 4 and ( 2 ÷ 3 ) ÷ 6 = 0.11.
+
+### Commutative Property
+
+Addition and multiplication of natural numbers show the commutative property. For example, x + y = y + x and a × b = b × a
+
+Subtraction and division of natural numbers do not show the commutative property. For example, x – y ≠ y – x and x ÷ y ≠ y ÷ x
+
+### Distributive Property
+
+Multiplication of natural numbers is always distributive over addition. For example, a × (b + c) = ab + ac
+
+Multiplication of natural numbers is also distributive over subtraction. For example, a × (b – c) = ab – ac
 
 # Whole Numbers
 
