@@ -11,7 +11,6 @@
 <li><a href="#rules-of-forming">Rules of Forming</a></li>
 <li><a href="#conversion-rules">Conversion Rules</a></li>
 <li><a href="#list-1-to-100000">List 1 to 100000</a></li>
-<li><a href="#faqs">FAQs</a></li>
 </ul>
 <p><a id="roman-numbers-1-to-100" name="Roman Numbers 1 to 100"></a></p>
 <h2><span style="font-weight: 400;">Roman Numbers 1 to 100 </span></h2>
@@ -466,12 +465,12 @@ All these letters are used to represent the roman numbers. For example, the year
 <td><b>1,000000</b></td>
 </tr>
 <tr>
-<td><span class="latex-for-amp">\(\bar{V}\)</span></td>
-<td><span class="latex-for-amp">\(\bar{X}\)</span></td>
-<td><span class="latex-for-amp">\(\bar{L}\)</span></td>
-<td><span class="latex-for-amp">\(\bar{C}\)</span></td>
-<td><span class="latex-for-amp">\(\bar{D}\)</span></td>
-<td><span class="latex-for-amp">\(\bar{M}\)</span></td>
+<td>V¯</td>
+<td>X¯</td>
+<td>L¯</td>
+<td>C¯</td>
+<td>D¯</td>
+<td>M¯</td>
 </tr>
 </tbody>
 </table>
