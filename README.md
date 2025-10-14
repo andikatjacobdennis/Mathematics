@@ -14,7 +14,7 @@
 * Estimation and Rounding Off
 * Squares, Cubes, and Roots
 
-#### 2. Algebra Foundations
+#### 2. Algebra (Foundations)
 
 * Introduction to Variables and Algebraic Expressions
 * Linear Equations in One Variable
@@ -22,7 +22,7 @@
 * Factorization and Expansion of Algebraic Expressions
 * Simple Word Problems using Equations
 
-#### 3. Geometry Foundations
+#### 3. Geometry (Foundations)
 
 * Basic Geometric Terms (Point, Line, Plane, Ray, Angle)
 * Types of Angles and Triangles
