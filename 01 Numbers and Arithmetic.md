@@ -93,7 +93,7 @@ Let’s connect all three sets:
 
 ---
 
-## 🧩 1. Fractions and Decimals: Understanding Parts of a Whole
+## 2. Fractions and Decimals: Understanding Parts of a Whole
 
 Mathematics often helps us describe things that are **not whole** — like half a pizza, a quarter of a cake, or 0.5 liters of water.
 Two of the most common ways to represent these **parts of a whole** are **fractions** and **decimals**. Let’s explore how they work and how they’re connected!
@@ -111,7 +111,7 @@ Example:
 
 ---
 
-### 🍕 2. What are Fractions?
+### 2.2. What are Fractions?
 
 A **fraction** represents **a part of a whole** using two numbers:
 
@@ -137,7 +137,7 @@ So, $\frac{3}{4}$ means **three parts out of four equal parts**.
 
 ---
 
-#### ⚖️ Types of Fractions
+#### Types of Fractions
 
 ##### **1. Proper Fractions**
 
@@ -159,7 +159,7 @@ So, $\frac{3}{4}$ means **three parts out of four equal parts**.
 
 ---
 
-### 💡 3. What are Decimals?
+### 2.3. What are Decimals?
 
 A **decimal** is another way to represent parts of a whole — it uses a **decimal point (·)** instead of a fraction line.
 
@@ -196,7 +196,7 @@ This means seven parts out of ten — just like a fraction!
 
 ---
 
-### 🔄 4. Conversion Between Forms
+### 2.4. Conversion Between Forms
 
 ### 🔹 Fraction → Decimal
 
@@ -227,4 +227,3 @@ Example:
 So, 0.6 equals three-fifths.
 
 ---
-
