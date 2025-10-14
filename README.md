@@ -59,7 +59,7 @@
 * Irrational Numbers, Surds, and Exponents
 * Laws of Radicals and Rationalization
 
-#### 2. Algebra (Basics)
+#### 2. Algebra (Intermediate)
 
 * Polynomials and Their Factorization
 * Linear Equations in Two Variables
