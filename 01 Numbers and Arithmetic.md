@@ -1,6 +1,6 @@
 # 01. Numbers and Arithmetic
 
-## 1. Natural Numbers (Counting Numbers)
+## 1.1. Natural Numbers (Counting Numbers)
 
 **Definition:**
 Natural numbers are the numbers we use for **counting objects** in everyday life. They start from **1** and go on endlessly.
@@ -17,7 +17,7 @@ Natural numbers do **not** include zero or any negative numbers.
 
 ---
 
-## 2. Whole Numbers
+## 1.2. Whole Numbers
 
 **Definition:**
 Whole numbers are **all the natural numbers plus zero (0)**.
@@ -34,7 +34,7 @@ The **only difference** between **whole numbers** and **natural numbers** is the
 
 ---
 
-## 3. Integers
+## 1.3. Integers
 
 **Definition:**
 Integers include **all whole numbers**, their **negative counterparts**, and **zero**.
@@ -55,7 +55,7 @@ Negative numbers represent values **less than zero**. They are useful when descr
 
 ---
 
-## 4. Visualizing on the Number Line
+## 1.4. Visualizing on the Number Line
 
 The **number line** helps us see how these sets of numbers are related.
 
@@ -75,7 +75,7 @@ Natural Numbers ⊂ Whole Numbers ⊂ Integers
 
 ---
 
-## 5. Relationship Summary
+## 1.5. Relationship Summary
 
 Let’s connect all three sets:
 
@@ -111,7 +111,7 @@ Example:
 
 ---
 
-### 2.2. What are Fractions?
+### 2.1. What are Fractions?
 
 A **fraction** represents **a part of a whole** using two numbers:
 
@@ -159,7 +159,7 @@ So, $\frac{3}{4}$ means **three parts out of four equal parts**.
 
 ---
 
-### 2.3. What are Decimals?
+### 2.2. What are Decimals?
 
 A **decimal** is another way to represent parts of a whole — it uses a **decimal point (·)** instead of a fraction line.
 
@@ -196,7 +196,7 @@ This means seven parts out of ten — just like a fraction!
 
 ---
 
-### 2.4. Conversion Between Forms
+### 2.3. Conversion Between Forms
 
 ### 🔹 Fraction → Decimal
 
