@@ -675,3 +675,308 @@ Any number divided by itself equals 1.
 | **Zero Exponent Rule** | $a^0 = 1$                   | $7^0$             | $1$          |
 
 ---
+
+## 1.6. Estimation and Rounding: Getting Close Enough
+
+In mathematics and everyday life, we often don’t need the exact number — we just need something **close enough** to make quick decisions. That’s where **estimation** and **rounding** come in!
+
+Let’s explore how these two ideas help us work smarter with numbers.
+
+---
+
+### 1.6.1. Introduction: Estimation
+
+#### What is Estimation?
+
+**Estimation** means making an **educated guess or rough calculation**.
+It gives you an answer that is **close to the exact value**, but easier and faster to work with.
+
+#### Real-World Examples:
+
+* When shopping, you can **estimate** the total cost of groceries to check if you have enough money.
+* At a concert or school event, you can **estimate** how many people are in the crowd.
+* A carpenter might **estimate** how much wood is needed before buying materials.
+
+**In words:**
+
+> Estimation helps you make quick, reasonable decisions without needing exact numbers.
+
+---
+
+### 1.6.2. What is Rounding?
+
+**Rounding** is a way to make a number **simpler** but still **close** to its actual value.
+It adjusts a number to a nearby **place value** (like tens, hundreds, or tenths).
+
+#### Core Rules of Rounding
+
+1. **If the digit to the right is 4 or less — round down.**
+   → Keep the original digit the same.
+
+2. **If the digit to the right is 5 or more — round up.**
+   → Increase the original digit by 1.
+
+---
+
+#### Example:
+
+Let’s round **47** to the nearest ten.
+
+* The **tens place** is 4 (which means 40).
+* The **digit to the right** (ones place) is 7.
+* Since 7 is **5 or more**, we **round up**.
+
+✅ **47 rounds to 50**
+
+---
+
+### 1.6.3. Rounding Practice (Place Value)
+
+Let’s practice rounding step by step.
+
+---
+
+#### 🔹 **A. Rounding to the Nearest Whole Number**
+
+Example: **12.6**
+
+1. Look at the **tenths digit** (the first digit after the decimal).
+   → Tenths digit = 6
+2. Since 6 is **5 or more**, **round up**.
+3. The whole number part (12) increases by 1.
+
+✅ **12.6 rounds to 13**
+
+---
+
+#### 🔹 **B. Rounding to the Nearest Ten**
+
+Example: **78**
+
+1. Look at the **ones digit** (the number to the right of the tens place).
+   → Ones digit = 8
+2. Since 8 is **5 or more**, **round up**.
+3. The tens digit (7) becomes 8.
+
+✅ **78 rounds to 80**
+
+---
+
+#### 🔹 **C. Rounding a Decimal to the Nearest Tenth**
+
+Example: **4.36**
+
+1. Identify the **tenths place** (the first digit after the decimal).
+   → Tenths digit = 3
+2. Look at the **hundredths place** (the next digit).
+   → Hundredths digit = 6
+3. Since 6 is **5 or more**, **round up** the tenths digit.
+
+✅ **4.36 rounds to 4.4**
+
+---
+
+#### More Practice Examples:
+
+| Original Number | Rounded To           | Result |
+| --------------- | -------------------- | ------ |
+| 243             | Nearest Ten          | 240    |
+| 587             | Nearest Ten          | 590    |
+| 19.82           | Nearest Whole Number | 20     |
+| 6.24            | Nearest Tenth        | 6.2    |
+
+---
+
+### Why Estimation and Rounding Matter
+
+Both **estimation** and **rounding** help you:
+
+* Save **time** when calculating.
+* Make **quick, logical decisions**.
+* Check if your exact answer **makes sense**.
+
+**In short:**
+
+> Rounding makes numbers simpler. Estimation helps you use those simpler numbers wisely!
+
+---
+
+## 1.7. Squares, Cubes, and Roots: Powering Up Numbers
+
+Have you ever noticed how some numbers “grow” quickly when multiplied by themselves? That’s the magic of **squares**, **cubes**, and their **roots**! These concepts help us understand how numbers relate to geometry and multiplication in powerful ways.
+
+Let’s explore how they work step by step.
+
+---
+
+### 🔹 1.7.1. Introduction to Squaring (The Second Power)
+
+#### What is a Square?
+
+When you **multiply a number by itself**, you are **squaring** it.
+
+The mathematical notation is:
+
+$
+n^2 = n \times n
+$
+
+This is read as **“n squared”** or **“n raised to the power of 2.”**
+
+#### Example:
+
+$
+5^2 = 5 \times 5 = 25
+$
+
+So, 25 is called a **perfect square** because it’s the square of a whole number (5).
+
+#### 🔸 The First Five Perfect Squares:
+
+1. $1^2 = 1$
+2. $2^2 = 4$
+3. $3^2 = 9$
+4. $4^2 = 16$
+5. $5^2 = 25$
+
+#### Visual Analogy:
+
+Imagine placing marbles or tiles to form a **square grid**:
+
+* 3 marbles across and 3 down make a **3 × 3 square = 9 marbles total**.
+  That’s why we call it “**squared**.”
+
+---
+
+### 🔹 1.7.2. Square Roots (The Inverse of Squaring)
+
+#### What is a Square Root?
+
+The **square root** of a number is the **opposite** (or inverse) of squaring.
+It finds the **original number** that was multiplied by itself.
+
+We use the **radical symbol** $\sqrt{}$ to represent it.
+
+$\sqrt{n} = \text{a number that, when squared, gives } n$
+
+#### Example:
+
+$\sqrt{36} = 6 \quad \text{because } 6^2 = 36$
+
+The **principal square root** is always the **positive** value (so $\sqrt{36} = 6$, not $-6$).
+
+---
+
+### 🔹 1.7.3. Introduction to Cubing (The Third Power)
+
+#### What is a Cube?
+
+When you **multiply a number by itself three times**, you are **cubing** it.
+
+The mathematical notation is:
+
+$n^3 = n \times n \times n$
+
+This is read as **“n cubed”** or **“n raised to the power of 3.”**
+
+#### Example:
+
+$2^3 = 2 \times 2 \times 2 = 8$
+
+So, 8 is a **perfect cube**.
+
+#### 🔸 The First Five Perfect Cubes:
+
+1. $1^3 = 1$
+2. $2^3 = 8$
+3. $3^3 = 27$
+4. $4^3 = 64$
+5. $5^3 = 125$
+
+#### Visual Analogy:
+
+Imagine stacking small cubes to form a **bigger cube**.
+For example, $3^3 = 27$ means a cube that is **3 units long, 3 units wide, and 3 units high**, containing **27 small cubes** in total.
+
+---
+
+### 🔹 1.7.4. Cube Roots (The Inverse of Cubing)
+
+#### What is a Cube Root?
+
+The **cube root** of a number is the **inverse** of cubing.
+It finds the number that was multiplied by itself **three times** to get the given value.
+
+We use the **cube root symbol** $\sqrt[3]{}$ to represent it.
+
+$\sqrt[3]{n} = \text{a number that, when cubed, gives } n$
+
+#### Example:
+
+$\sqrt[3]{8} = 2 \quad \text{because } 2^3 = 8$
+
+Unlike square roots, **cube roots** can be **positive or negative**, since $(-2)^3 = -8$.
+
+---
+
+### 🔹 1.7.5. Finding Roots Using Prime Factorization
+
+The **prime factorization method** is a reliable way to find square or cube roots of perfect squares and cubes.
+Let’s go through it step by step!
+
+---
+
+#### Example 1: Finding the **Square Root of 144**
+
+**Step 1:** Write 144 as a product of prime factors.
+
+$
+144 = 2 \times 2 \times 2 \times 2 \times 3 \times 3 = 2^4 \times 3^2
+$
+
+**Step 2:** For a square root, group the factors in **pairs** (because squaring means two equal factors).
+
+$
+(2^4 \times 3^2) = (2^2)^2 \times (3)^2
+$
+
+**Step 3:** Take one number from each pair.
+
+$
+\sqrt{144} = 2^2 \times 3 = 4 \times 3 = 12
+$
+
+✅ **So, $\sqrt{144} = 12$**
+
+---
+
+#### Example 2: Finding the **Cube Root of 216**
+
+**Step 1:** Write 216 as a product of prime factors.
+
+$
+216 = 2 \times 2 \times 2 \times 3 \times 3 \times 3 = 2^3 \times 3^3
+$
+
+**Step 2:** For a cube root, group the factors in **triples** (because cubing means three equal factors).
+
+**Step 3:** Take one number from each triple.
+
+$
+\sqrt[3]{216} = 2 \times 3 = 6
+$
+
+✅ **So, $\sqrt[3]{216} = 6$**
+
+---
+
+### Summary Table
+
+| **Concept**     | **Notation**  | **Example**   | **Result** |
+| --------------- | ------------- | ------------- | ---------- |
+| **Square**      | $n^2$         | $5^2$         | $25$       |
+| **Square Root** | $\sqrt{n}$    | $\sqrt{36}$   | $6$        |
+| **Cube**        | $n^3$         | $3^3$         | $27$       |
+| **Cube Root**   | $\sqrt[3]{n}$ | $\sqrt[3]{8}$ | $2$        |
+
+---
