@@ -90,9 +90,3 @@ Let’s connect all three sets:
 > ✅ Every Natural Number is a Whole Number.
 > ✅ Every Whole Number is an Integer.
 > 🚫 But not every Integer is a Whole or Natural Number. (For example, -2 is an integer, but not a whole or natural number.)
-
----
-
-### Summary in One Sentence
-
-> **Natural Numbers** are for counting, **Whole Numbers** add zero, and **Integers** add negatives — all living together on the same number line!
