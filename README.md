@@ -14,7 +14,7 @@
 * Estimation and Rounding Off
 * Squares, Cubes, and Roots
 
-#### 2. Algebra Basics
+#### 2. Algebra Foundations
 
 * Introduction to Variables and Algebraic Expressions
 * Linear Equations in One Variable
