@@ -1,269 +1,170 @@
-### **Comprehensive Mathematics Revision Table of Contents**
+# Mathematics
 
-#### **1. Foundations of Mathematics**
-1.1 **Arithmetic**  
-- Natural Numbers, Whole Numbers, Integers  
-- Fractions and Decimals  
-- Factors and Multiples (LCM, GCD)  
-- Prime Numbers and Prime Factorization  
-- Divisibility Rules  
-- Powers, Roots, and Exponents  
-- Order of Operations (PEMDAS/BODMAS)  
-- Percentage, Ratio, and Proportion  
-- Rounding and Estimation  
-- Arithmetic Word Problems  
+## Mathematics: From Basics to Advanced
 
-1.2 **Basic Number Theory**  
-- Even and Odd Numbers  
-- Prime Numbers and Composite Numbers  
-- Greatest Common Divisor (GCD)  
-- Least Common Multiple (LCM)  
-- Modular Arithmetic  
+### **Level 1: Foundational Mathematics (Class 6–8)**
 
-1.3 **Basic Algebraic Concepts**  
-- Variables and Constants  
-- Simplifying Expressions  
-- Solving Simple Linear Equations  
-- Introduction to Inequalities  
-- Word Problems Involving Algebra  
+#### 1. Numbers and Arithmetic
 
-1.4 **Basic Geometry**  
-- Points, Lines, Angles  
-- Types of Angles (Acute, Obtuse, Right)  
-- Properties of Triangles and Polygons  
-- Perimeter and Area of Basic Shapes (Square, Rectangle, Triangle)  
+* Natural Numbers, Whole Numbers, Integers
+* Fractions and Decimals
+* Factors and Multiples (HCF, LCM)
+* Rational Numbers and Properties
+* Exponents and Powers
+* Estimation and Rounding Off
+* Squares, Cubes, and Roots
 
-1.5 **Measurement**  
-- Units of Measurement (Length, Area, Volume)  
-- Conversion Between Units (Metric and Imperial Systems)  
-- Time, Speed, and Distance Calculations  
+#### 2. Algebra Basics
 
-1.6 **Introduction to Graphs and Charts**  
-- Reading and Plotting Points on the Coordinate Plane  
-- Bar Graphs, Line Graphs, and Pie Charts  
-- Basics of Linear Graphs  
+* Introduction to Variables and Algebraic Expressions
+* Linear Equations in One Variable
+* Identities and Simplification
+* Factorization and Expansion of Algebraic Expressions
+* Simple Word Problems using Equations
 
-1.7 **Basic Probability and Statistics**  
-- Introduction to Probability (Simple Events)  
-- Mean, Median, Mode, and Range  
-- Simple Data Sets and Frequency Tables  
-- Basic Combinatorics  
+#### 3. Geometry Foundations
 
----
+* Basic Geometric Terms (Point, Line, Plane, Ray, Angle)
+* Types of Angles and Triangles
+* Properties of Triangles and Quadrilaterals
+* Circles and Their Properties
+* Construction with Compass and Ruler
 
-#### **2. Algebra**
-2.1 **Linear Equations and Inequalities**  
-- Solving Simple and Complex Linear Equations  
-- Systems of Equations (Substitution, Elimination, Matrices)  
-- Word Problems Involving Linear Equations  
+#### 4. Mensuration (2D & 3D Geometry)
 
-2.2 **Quadratic Equations**  
-- Solving Quadratic Equations (Factorization, Quadratic Formula)  
-- Nature of Roots and Discriminants  
+* Perimeter and Area of Plane Figures (Rectangle, Square, Triangle, Circle)
+* Surface Area and Volume (Cuboid, Cube, Cylinder, Cone, Sphere)
+* Conversion between Units
 
-2.3 **Polynomials**  
-- Operations on Polynomials  
-- Roots and Factoring Polynomials  
-- Remainder and Factor Theorem  
+#### 5. Data Handling and Statistics
 
-2.4 **Exponents and Logarithms**  
-- Properties of Exponents (Laws of Exponents)  
-- Introduction to Logarithms  
-- Logarithmic and Exponential Equations  
+* Collection and Organization of Data
+* Pictographs and Bar Graphs
+* Mean, Median, and Mode of Raw Data
+* Probability (Introduction through Experiments)
 
-2.5 **Sequences and Series**  
-- Arithmetic and Geometric Sequences  
-- Infinite Series and Convergence  
-- Binomial Theorem  
+#### 6. Practical Geometry and Symmetry
+
+* Construction of Angles, Triangles, and Quadrilaterals
+* Symmetry and Reflection
+* Visualizing 3D Shapes
 
 ---
 
-#### **3. Geometry**
-3.1 **Basics of Euclidean Geometry**  
-- Points, Lines, Angles  
-- Types of Angles (Acute, Obtuse, Complementary, etc.)  
-- Properties of Triangles and Polygons  
+### **Level 2: Intermediate Mathematics (Class 9–10)**
 
-3.2 **Circles**  
-- Tangents, Chords, Arcs  
-- Angle Properties in Circles  
+#### 1. Number Systems
 
-3.3 **Coordinate Geometry**  
-- Distance and Midpoint Formulas  
-- Equation of a Line (Slope-Intercept Form, Point-Slope Form)  
-- Conic Sections (Parabola, Ellipse, Hyperbola)  
+* Real Numbers and Their Properties
+* Irrational Numbers, Surds, and Exponents
+* Laws of Radicals and Rationalization
 
-3.4 **Solid Geometry**  
-- Volume and Surface Area of Solids (Cube, Rectangular Prism, Sphere, Cylinder, etc.)  
+#### 2. Algebra (Basics)
 
----
+* Polynomials and Their Factorization
+* Linear Equations in Two Variables
+* Quadratic Equations: Roots and Graphs
+* Arithmetic and Geometric Progressions (AP & GP)
 
-#### **4. Trigonometry**
-4.1 **Trigonometric Ratios**  
-- Sine, Cosine, Tangent  
-- Reciprocal Trigonometric Functions (Cosecant, Secant, Cotangent)  
+#### 3. Coordinate Geometry
 
-4.2 **Trigonometric Identities**  
-- Pythagorean Identity  
-- Angle Sum and Difference Identities  
-- Double Angle and Half Angle Formulas  
+* Cartesian Plane and Coordinates
+* Distance Formula
+* Section Formula and Midpoint Formula
+* Area of Triangle in Coordinate Plane
 
-4.3 **Inverse Trigonometric Functions**  
-- Definition and Application  
+#### 4. Geometry
 
-4.4 **Applications of Trigonometry**  
-- Law of Sines and Law of Cosines  
-- Solving Right and Oblique Triangles  
-- Trigonometric Equations  
+* Lines and Angles
+* Triangles: Congruence and Similarity
+* Circles: Tangent, Secant, and Related Theorems
+* Constructions using Compass and Straightedge
 
----
+#### 5. Trigonometry (Basics)
 
-#### **5. Calculus**
-5.1 **Limits and Continuity**  
-- Definition of a Limit  
-- Continuity and Discontinuity of Functions  
+* Trigonometric Ratios of Acute Angles
+* Trigonometric Identities
+* Heights and Distances (Applications)
 
-5.2 **Differentiation**  
-- Derivatives of Functions  
-- Rules of Differentiation (Chain Rule, Product Rule, Quotient Rule)  
-- Maxima and Minima  
-- Applications: Curve Sketching, Related Rates  
+#### 6. Mensuration (Advanced)
 
-5.3 **Integration**  
-- Definite and Indefinite Integrals  
-- Techniques of Integration (Substitution, Integration by Parts)  
-- Applications: Area Under Curves, Volumes of Revolution  
+* Surface Area and Volume of Solids (Cone, Sphere, Frustum)
+* Combination of Solids
 
-5.4 **Multivariable Calculus**  
-- Partial Derivatives  
-- Gradient, Divergence, and Curl  
-- Multiple Integrals (Double and Triple Integrals)  
+#### 7. Statistics and Probability
+
+* Data Representation (Histogram, Frequency Polygon)
+* Mean, Median, Mode of Grouped Data
+* Basic Probability using Experiments
 
 ---
 
-#### **6. Statistics and Probability**
-6.1 **Descriptive Statistics**  
-- Measures of Central Tendency: Mean, Median, Mode  
-- Measures of Dispersion: Range, Variance, Standard Deviation  
+### **Level 3: Advanced Mathematics (Class 11–12)**
 
-6.2 **Probability**  
-- Basic Probability Rules  
-- Conditional Probability and Bayes' Theorem  
+#### 1. Sets, Relations, and Functions
 
-6.3 **Probability Distributions**  
-- Binomial Distribution  
-- Poisson Distribution  
-- Normal Distribution  
+* Sets and Subsets, Venn Diagrams
+* Operations on Sets
+* Relations and Their Types
+* Functions and Their Graphs
+* Types of Functions (Linear, Quadratic, Polynomial, Exponential, Logarithmic)
 
-6.4 **Inferential Statistics**  
-- Hypothesis Testing  
-- Confidence Intervals  
-- Regression and Correlation  
+#### 2. Algebra
 
----
+* Complex Numbers and Quadratic Equations
+* Sequences and Series (AP, GP, HP, Sum of n Terms)
+* Permutations and Combinations
+* Binomial Theorem and Its Applications
+* Mathematical Induction
 
-#### **7. Linear Algebra**
-7.1 **Vectors and Matrices**  
-- Vector Operations (Addition, Subtraction, Scalar Multiplication)  
-- Matrix Operations (Addition, Multiplication, Inverses)  
+#### 3. Coordinate Geometry (Analytical Geometry)
 
-7.2 **Eigenvalues and Eigenvectors**  
-- Computation and Application  
+* Straight Lines (Slope, Intercept, Distance from Point to Line)
+* Circles (Equation, Tangents, and Normal)
+* Parabola, Ellipse, Hyperbola (Conic Sections)
 
-7.3 **Linear Transformations**  
-- Matrix Representation of Linear Transformations  
+#### 4. Trigonometry (Advanced)
 
-7.4 **Inner Product Spaces**  
-- Dot Product and Cross Product  
-- Orthogonality and Projections  
+* Trigonometric Equations
+* Inverse Trigonometric Functions
+* Properties and Graphs of Trigonometric Functions
+* Transformation Formulas (Sum, Difference, Product)
 
----
+#### 5. Calculus
 
-#### **8. Advanced Topics**
-8.1 **Differential Equations**  
-- First-Order and Second-Order Differential Equations  
-- Homogeneous and Non-Homogeneous Equations  
-- Laplace and Fourier Transforms  
+* Limits and Continuity
+* Differentiation and Its Applications
+* Tangents and Normals
+* Increasing and Decreasing Functions
+* Maxima and Minima
+* Integration (Indefinite & Definite Integrals)
+* Area under Curves
+* Differential Equations (Formation and Solutions)
 
-8.2 **Complex Numbers**  
-- Imaginary Unit and Complex Plane  
-- Polar Form of Complex Numbers  
-- De Moivre’s Theorem  
+#### 6. Vectors and 3D Geometry
 
-8.3 **Graph Theory**  
-- Graphs, Paths, and Circuits  
-- Eulerian and Hamiltonian Paths  
+* Vector Algebra (Addition, Scalar and Vector Products)
+* Position Vector, Direction Cosines
+* Equation of Line and Plane in 3D
+* Angle between Lines and Planes
 
-8.4 **Number Theory (Advanced)**  
-- Modular Arithmetic (Advanced)  
-- Cryptography and Number Theory  
-- Diophantine Equations  
+#### 7. Linear Algebra
 
-8.5 **Topology (Introductory)**  
-- Open and Closed Sets  
-- Compactness and Continuity  
-- Topological Spaces  
+* Matrices and Determinants
+* Types and Operations on Matrices
+* Inverse of a Matrix
+* Solution of Linear Equations using Matrices
 
-8.6 **Game Theory**  
-- Nash Equilibrium  
-- Zero-Sum and Non-Zero-Sum Games  
+#### 8. Probability and Statistics (Advanced)
 
-8.7 **Optimization**  
-- Linear Programming  
-- Nonlinear Programming  
+* Conditional Probability
+* Bayes’ Theorem
+* Random Variables and Probability Distributions
+* Mean and Variance of Discrete Distribution
+* Binomial, Poisson, and Normal Distributions
 
----
+#### 9. Mathematical Reasoning
 
-#### **9. Basic Logic and Reasoning**
-9.1 **Introduction to Logic**  
-- Statements, Truth Values, Logical Connectives  
-- Basic Truth Tables  
-
-9.2 **Introduction to Proof Techniques**  
-- Inductive and Deductive Reasoning  
-- Proof by Contradiction  
-
----
-
-#### **10. Miscellaneous Math Skills**
-10.1 **Estimation Techniques**  
-- Rounding, Approximating  
-- Estimating Sums, Differences, Products  
-
-10.2 **Mental Math Techniques**  
-- Quick Calculations for Multiplication, Division, Addition, and Subtraction  
-
----
-
-#### **11. Mathematics for OpenGL**
-11.1 **Linear Algebra for Graphics**  
-- Vectors and Matrices in 2D and 3D Graphics  
-- Transformation Matrices (Translation, Rotation, Scaling)  
-- Homogeneous Coordinates  
-
-11.2 **Calculus in Graphics**  
-- Curve Representation and Analysis  
-- Surface Area Calculations  
-
-11.3 **Trigonometry for Graphics**  
-- Angles and Rotations in 2D/3D  
-- Sine and Cosine Functions for Waveforms  
-
----
-
-#### **12. Mathematics for Artificial Intelligence**
-12.1 **Linear Algebra in AI**  
-- Matrices and Vectors for Data Representation  
-- Eigenvalues and Eigenvectors in Dimensionality Reduction  
-
-12.2 **Calculus in Machine Learning**  
-- Gradient Descent Optimization  
-- Cost Functions and Backpropagation  
-
-12.3 **Probability and Statistics in AI**  
-- Bayesian Statistics  
-- Markov Chains and Hidden Markov Models  
-
-12.4 **Graph Theory in AI**  
-- Graphs and Networks in Neural Networks  
-- Search Algorithms (DFS, BFS)
+* Statements, Negation, and Logical Connectives
+* Implications and Converse
+* Validity of Statements
