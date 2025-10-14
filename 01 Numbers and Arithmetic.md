@@ -552,3 +552,126 @@ Every rational number has an **inverse** that “undoes” its effect.
 | **Inverse**     | $-a$ (Add.), $\frac{1}{a}$ (Mult.) | $\frac{3}{4}$ → $-\frac{3}{4}$; $\frac{2}{5}$ → $\frac{5}{2}$ | Returns 0 or 1 |
 
 ---
+
+## 1.5. Exponents and Powers: The Shortcut for Multiplication
+
+Have you ever had to multiply the same number many times — like $2 \times 2 \times 2 \times 2$?
+That can get long and tiring! Luckily, **exponents** (also called **powers**) give us a **shortcut** to write repeated multiplication neatly and quickly.
+
+Let’s explore what exponents mean and the simple rules that make them so powerful.
+
+---
+
+### 1.5.1. Definitions and Notation
+
+An **exponent** tells us how many times to **multiply a number by itself**.
+
+The standard form is:
+
+$a^n$
+
+Here:
+
+* **$a$** is the **base** — the number being multiplied.
+* **$n$** is the **exponent (or power)** — the number of times the base is multiplied by itself.
+
+#### 🔸 Example 1:
+
+$2^3 = 2 \times 2 \times 2 = 8$
+
+* **Base:** 2
+* **Exponent:** 3
+* **Meaning:** Multiply 2 by itself three times.
+
+#### 🔸 Example 2:
+
+$5^4 = 5 \times 5 \times 5 \times 5 = 625$
+
+**In words:**
+
+> Exponents are a **shortcut for writing repeated multiplication** of the same number.
+
+---
+
+### 1.5.2. The Laws of Exponents (The Rules)
+
+Exponents follow some special **rules** that make calculations easier.
+Let’s look at the four most important ones.
+
+---
+
+#### 🔹 **1. Product Rule**
+
+When **multiplying powers with the same base**, **add** the exponents.
+
+$a^m \times a^n = a^{m+n}$
+
+**Example:**
+
+$2^3 \times 2^4 = 2^{3+4} = 2^7 = 128$
+
+✅ **Why it works:**
+$2^3 = 2 \times 2 \times 2$ and $2^4 = 2 \times 2 \times 2 \times 2$
+— putting them together gives 7 factors of 2.
+
+---
+
+#### 🔹 **2. Quotient Rule**
+
+When **dividing powers with the same base**, **subtract** the exponents.
+
+$\frac{a^m}{a^n} = a^{m-n}$
+
+**Example:**
+
+$\frac{5^6}{5^2} = 5^{6-2} = 5^4 = 625$
+
+✅ **Why it works:**
+Division cancels out matching factors on top and bottom.
+
+---
+
+#### 🔹 **3. Power of a Power Rule**
+
+When **raising a power to another power**, **multiply** the exponents.
+
+$(a^m)^n = a^{m \times n}$
+
+**Example:**
+
+$(3^2)^4 = 3^{2 \times 4} = 3^8 = 6561$
+
+✅ **Why it works:**
+$3^2 = 3 \times 3$, and we multiply that result 4 more times — making a total of 8 factors of 3.
+
+---
+
+#### 🔹 **4. Zero Exponent Rule**
+
+Any **nonzero number** raised to the power **zero** is **1**.
+
+$a^0 = 1 \quad \text{(for } a \neq 0\text{)}$
+
+**Example:**
+
+$7^0 = 1 \quad \text{and} \quad (-3)^0 = 1$
+
+✅ **Why it works:**
+Using the quotient rule:
+
+$\frac{a^3}{a^3} = a^{3-3} = a^0 = 1$
+
+Any number divided by itself equals 1.
+
+---
+
+### 💡 Summary Table: The Laws of Exponents
+
+| **Rule Name**          | **Formula**                 | **Example**       | **Result**   |
+| ---------------------- | --------------------------- | ----------------- | ------------ |
+| **Product Rule**       | $a^m \times a^n = a^{m+n}$  | $2^3 \times 2^4$  | $2^7 = 128$  |
+| **Quotient Rule**      | $\frac{a^m}{a^n} = a^{m-n}$ | $\frac{5^6}{5^2}$ | $5^4 = 625$  |
+| **Power of a Power**   | $(a^m)^n = a^{m \times n}$  | $(3^2)^4$         | $3^8 = 6561$ |
+| **Zero Exponent Rule** | $a^0 = 1$                   | $7^0$             | $1$          |
+
+---
