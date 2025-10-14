@@ -17,7 +17,7 @@ Natural numbers do **not** include zero or any negative numbers.
 
 ---
 
-## 1.2. Whole Numbers
+## 1.1.1. Whole Numbers
 
 **Definition:**
 Whole numbers are **all the natural numbers plus zero (0)**.
@@ -34,7 +34,7 @@ The **only difference** between **whole numbers** and **natural numbers** is the
 
 ---
 
-## 1.3. Integers
+## 1.1.2. Integers
 
 **Definition:**
 Integers include **all whole numbers**, their **negative counterparts**, and **zero**.
@@ -55,7 +55,7 @@ Negative numbers represent values **less than zero**. They are useful when descr
 
 ---
 
-## 1.4. Visualizing on the Number Line
+## 1.1.3. Visualizing on the Number Line
 
 The **number line** helps us see how these sets of numbers are related.
 
@@ -75,7 +75,7 @@ Natural Numbers ⊂ Whole Numbers ⊂ Integers
 
 ---
 
-## 1.5. Relationship Summary
+## 1.1.4. Relationship Summary
 
 Let’s connect all three sets:
 
@@ -93,7 +93,7 @@ Let’s connect all three sets:
 
 ---
 
-## 2. Fractions and Decimals: Understanding Parts of a Whole
+## 1.2. Fractions and Decimals: Understanding Parts of a Whole
 
 Mathematics often helps us describe things that are **not whole** — like half a pizza, a quarter of a cake, or 0.5 liters of water.
 Two of the most common ways to represent these **parts of a whole** are **fractions** and **decimals**. Let’s explore how they work and how they’re connected!
@@ -111,7 +111,7 @@ Example:
 
 ---
 
-### 2.1. What are Fractions?
+### 1.2.1. What are Fractions?
 
 A **fraction** represents **a part of a whole** using two numbers:
 
@@ -159,7 +159,7 @@ So, $\frac{3}{4}$ means **three parts out of four equal parts**.
 
 ---
 
-### 2.2. What are Decimals?
+### 1.2.2. What are Decimals?
 
 A **decimal** is another way to represent parts of a whole — it uses a **decimal point (·)** instead of a fraction line.
 
@@ -196,7 +196,7 @@ This means seven parts out of ten — just like a fraction!
 
 ---
 
-### 2.3. Conversion Between Forms
+### 1.2.3. Conversion Between Forms
 
 ### 🔹 Fraction → Decimal
 
