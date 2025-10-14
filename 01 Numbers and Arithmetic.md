@@ -116,7 +116,7 @@ Example:
 A **fraction** represents **a part of a whole** using two numbers:
 
 [
-\text{Fraction} = \frac{\text{Numerator}}{\text{Denominator}}
+$\text{Fraction} = \frac{\text{Numerator}}{\text{Denominator}}$
 ]
 
 #### 🔹 Numerator
@@ -204,7 +204,7 @@ To change a fraction into a decimal, **divide** the **numerator** by the **denom
 
 Example:
 [
-\frac{3}{4} = 3 \div 4 = 0.75
+$\frac{3}{4} = 3 \div 4 = 0.75$
 ]
 
 So, $\frac{3}{4}$ and **0.75** are the same amount.
@@ -221,7 +221,7 @@ To change a decimal into a fraction:
 
 Example:
 [
-0.6 = \frac{6}{10} = \frac{3}{5}
+$0.6 = \frac{6}{10} = \frac{3}{5}$
 ]
 
 So, 0.6 equals three-fifths.
