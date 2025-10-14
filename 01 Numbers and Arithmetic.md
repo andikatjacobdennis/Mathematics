@@ -1,6 +1,8 @@
 # 01. Numbers and Arithmetic
 
-## 1.1. Natural Numbers (Counting Numbers)
+## 1.1. Natural Numbers, Whole Numbers, and Integers
+
+## 1.1.1. Natural Numbers (Counting Numbers)
 
 **Definition:**
 Natural numbers are the numbers we use for **counting objects** in everyday life. They start from **1** and go on endlessly.
@@ -17,7 +19,7 @@ Natural numbers do **not** include zero or any negative numbers.
 
 ---
 
-## 1.1.1. Whole Numbers
+## 1.1.2. Whole Numbers
 
 **Definition:**
 Whole numbers are **all the natural numbers plus zero (0)**.
@@ -34,7 +36,7 @@ The **only difference** between **whole numbers** and **natural numbers** is the
 
 ---
 
-## 1.1.2. Integers
+## 1.1.3. Integers
 
 **Definition:**
 Integers include **all whole numbers**, their **negative counterparts**, and **zero**.
@@ -55,7 +57,7 @@ Negative numbers represent values **less than zero**. They are useful when descr
 
 ---
 
-## 1.1.3. Visualizing on the Number Line
+## 1.1.4. Visualizing on the Number Line
 
 The **number line** helps us see how these sets of numbers are related.
 
@@ -75,7 +77,7 @@ Natural Numbers ⊂ Whole Numbers ⊂ Integers
 
 ---
 
-## 1.1.4. Relationship Summary
+## 1.1.5. Relationship Summary
 
 Let’s connect all three sets:
 
